@@ -1,0 +1,5 @@
+{
+  "name": "React Image Carousel",
+  "description": "A sleek, horizontal image carousel built with React, TypeScript, Framer Motion for smooth animations, and styled with Tailwind CSS. Features infinite looping and intuitive arrow navigation.",
+  "requestFramePermissions": []
+}
